@@ -1,3 +1,2 @@
-# testrepo
-Editing the file
-Markdown file in repository
+# Display the output
+print('New Python file')
